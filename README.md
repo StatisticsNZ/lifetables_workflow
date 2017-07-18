@@ -1,4 +1,4 @@
-# repository_template
+# lifetables_workflow
 
 Description of repository contents 
 
