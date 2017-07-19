@@ -1,7 +1,6 @@
 # lifetables_workflow
 
-Description of repository contents 
-
+Code to be uploaded soon!
 
 
 ---
